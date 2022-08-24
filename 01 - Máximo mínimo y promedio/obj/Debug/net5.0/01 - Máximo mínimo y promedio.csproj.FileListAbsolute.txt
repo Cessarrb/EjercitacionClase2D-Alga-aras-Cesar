@@ -1,0 +1,16 @@
+C:\Users\cesar\source\repos\EjercitacionClase2D-Algañaras-Cesar\01 - Máximo mínimo y promedio\bin\Debug\net5.0\01 - Máximo mínimo y promedio.exe
+C:\Users\cesar\source\repos\EjercitacionClase2D-Algañaras-Cesar\01 - Máximo mínimo y promedio\bin\Debug\net5.0\01 - Máximo mínimo y promedio.deps.json
+C:\Users\cesar\source\repos\EjercitacionClase2D-Algañaras-Cesar\01 - Máximo mínimo y promedio\bin\Debug\net5.0\01 - Máximo mínimo y promedio.runtimeconfig.json
+C:\Users\cesar\source\repos\EjercitacionClase2D-Algañaras-Cesar\01 - Máximo mínimo y promedio\bin\Debug\net5.0\01 - Máximo mínimo y promedio.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\EjercitacionClase2D-Algañaras-Cesar\01 - Máximo mínimo y promedio\bin\Debug\net5.0\01 - Máximo mínimo y promedio.dll
+C:\Users\cesar\source\repos\EjercitacionClase2D-Algañaras-Cesar\01 - Máximo mínimo y promedio\bin\Debug\net5.0\01 - Máximo mínimo y promedio.pdb
+C:\Users\cesar\source\repos\EjercitacionClase2D-Algañaras-Cesar\01 - Máximo mínimo y promedio\obj\Debug\net5.0\01 - Máximo mínimo y promedio.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\EjercitacionClase2D-Algañaras-Cesar\01 - Máximo mínimo y promedio\obj\Debug\net5.0\01 - Máximo mínimo y promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\source\repos\EjercitacionClase2D-Algañaras-Cesar\01 - Máximo mínimo y promedio\obj\Debug\net5.0\01 - Máximo mínimo y promedio.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\EjercitacionClase2D-Algañaras-Cesar\01 - Máximo mínimo y promedio\obj\Debug\net5.0\01 - Máximo mínimo y promedio.AssemblyInfo.cs
+C:\Users\cesar\source\repos\EjercitacionClase2D-Algañaras-Cesar\01 - Máximo mínimo y promedio\obj\Debug\net5.0\01 - Máximo mínimo y promedio.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\EjercitacionClase2D-Algañaras-Cesar\01 - Máximo mínimo y promedio\obj\Debug\net5.0\01 - Máximo mínimo y promedio.dll
+C:\Users\cesar\source\repos\EjercitacionClase2D-Algañaras-Cesar\01 - Máximo mínimo y promedio\obj\Debug\net5.0\refint\01 - Máximo mínimo y promedio.dll
+C:\Users\cesar\source\repos\EjercitacionClase2D-Algañaras-Cesar\01 - Máximo mínimo y promedio\obj\Debug\net5.0\01 - Máximo mínimo y promedio.pdb
+C:\Users\cesar\source\repos\EjercitacionClase2D-Algañaras-Cesar\01 - Máximo mínimo y promedio\obj\Debug\net5.0\01 - Máximo mínimo y promedio.genruntimeconfig.cache
+C:\Users\cesar\source\repos\EjercitacionClase2D-Algañaras-Cesar\01 - Máximo mínimo y promedio\obj\Debug\net5.0\ref\01 - Máximo mínimo y promedio.dll
