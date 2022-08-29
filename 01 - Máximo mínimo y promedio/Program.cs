@@ -6,7 +6,7 @@ namespace _01___Máximo_mínimo_y_promedio
     {
         static void Main(string[] args)
         {
-            int numeroIngresado = 0;
+            int numeroIngresado = 0; 
             int numMaximo = int.MinValue;
             int numMinimo = int.MaxValue;
             int sumaNumIngresados = 0;
