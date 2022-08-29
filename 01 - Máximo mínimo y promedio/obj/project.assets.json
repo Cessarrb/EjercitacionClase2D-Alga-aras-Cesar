@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cesar\\source\\repos\\EjercitacionClase2D-Alga-aras-Cesar\\01 - Máximo mínimo y promedio\\01 - Máximo mínimo y promedio.csproj",
+      "projectUniqueName": "C:\\Users\\cesar\\source\\repos\\01 - Máximo mínimo y promedio\\01 - Máximo mínimo y promedio.csproj",
       "projectName": "01 - Máximo mínimo y promedio",
-      "projectPath": "C:\\Users\\cesar\\source\\repos\\EjercitacionClase2D-Alga-aras-Cesar\\01 - Máximo mínimo y promedio\\01 - Máximo mínimo y promedio.csproj",
+      "projectPath": "C:\\Users\\cesar\\source\\repos\\01 - Máximo mínimo y promedio\\01 - Máximo mínimo y promedio.csproj",
       "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cesar\\source\\repos\\EjercitacionClase2D-Alga-aras-Cesar\\01 - Máximo mínimo y promedio\\obj\\",
+      "outputPath": "C:\\Users\\cesar\\source\\repos\\01 - Máximo mínimo y promedio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
